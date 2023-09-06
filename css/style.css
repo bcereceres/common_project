@@ -1,0 +1,30 @@
+body{
+    background-color: #4A4A4A;
+    color: aqua;
+
+}
+
+h1{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, sans-serif;
+    text-align: center;
+}
+h2{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, sans-serif;
+    color:azure;
+}
+h3{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aquamarine;
+}
+p{
+    line-height: 25px;
+}
+img{
+    border: solid 5px black;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
